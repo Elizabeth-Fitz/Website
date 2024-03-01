@@ -1,0 +1,35 @@
+body {
+  margin-left: center;
+  margin-right: center; 
+}
+
+p {
+ font-weight: 400;
+ display: block;
+}
+
+h3 {
+  font-weight: 400;
+}
+.the_button{
+  border-radius: 5px;  
+  color: #480473;
+}
+.name {
+  font-weight: 550;
+  display: block;
+  font-family: sans-serif;
+}
+
+#student {
+  font-weight: 510;
+  display: block;
+  font-family: sans-serif;
+}
+
+#underline {
+   font-family: Verdana;
+  
+  text-decoration-line: underline;
+  font-weight: 525;
+}
